@@ -24,6 +24,6 @@ A Flask-based web app that predicts student success using academic and extracurr
 ---
 preview
 
-Screenshot from 2025-05-30 20-18-17.png
-
+[Screenshot from 2025-05-30 20-18-17.png
+](https://github.com/SriharshaAmma/MIT-InternAI/blob/main/Screenshot%20from%202025-05-30%2020-18-17.png)
 

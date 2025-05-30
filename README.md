@@ -22,5 +22,8 @@ A Flask-based web app that predicts student success using academic and extracurr
 - 🎨 HTML & CSS (Frontend)  
 
 ---
+preview
+
+Screenshot from 2025-05-30 20-18-17.png
 
 
